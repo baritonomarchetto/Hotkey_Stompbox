@@ -29,6 +29,8 @@ The stompbox PCB is populated by the following components:
 - 6x 10K ohm resistor
 - 2x LED, 3mm
 
+![](https://github.com/baritonomarchetto/Hotkey_Stompbox/blob/main/pics/IMG_20251024_111900_risultato.jpg?raw=true)
+
 To work the aluminum alloy case, I suggest you to use:
 - Power driller (mandatory)
 - Drill bits for metals (mandatory)
