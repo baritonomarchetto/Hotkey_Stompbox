@@ -43,6 +43,8 @@ There's little space inside a 1590B case. Most is already taken by the two foots
 
 This is why I opted for the smallest microcontroller board out there: The RP2040 Zero. This thing is in the 4 cm^2 ballpark and equips a powerful (and cheap) microcontroller. A no-brainer.
 
+![](/pics/1000041577_risultato.jpg?raw=true)
+
 Two classic PCB mount, latching, guitar effect footswitches are used to trigger keystrokes. This makes the device durable and solid feeling.
 
 Four additional (momentary) microswitches are present. These can be used for auxiliary functions like sending other keystrokes, menu diving, operation mode selection, etc.
