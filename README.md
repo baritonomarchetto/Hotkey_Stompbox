@@ -1,6 +1,8 @@
 # Hotkey Stompbox
 A DIY stompbox to send keystrokes to your software of choice. Hands free!
 
+![]()
+
 I’ve found myself needing this on more than one occasion over the past few years.
 
 Some time ago, I wanted to send keystrokes to a software looper to start and stop recording my synthesizer output while playing.
