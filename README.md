@@ -1,7 +1,7 @@
 # Hotkey Stompbox
 A DIY stompbox to send keystrokes to your software of choice. Hands free!
 
-![]()
+![](https://github.com/baritonomarchetto/Hotkey_Stompbox/blob/main/pics/1000041587_risultato.jpg?raw=true)
 
 I’ve found myself needing this on more than one occasion over the past few years.
 
