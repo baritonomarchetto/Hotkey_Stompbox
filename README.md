@@ -75,9 +75,7 @@ I choosed this second way, with the help of [Earl Phil Hower's Pi Pico core](htt
 As I said, in my prototype I adopted latching footswitches because easier to source. These, unlike non-latching switches, do not associate the press position to a state and release to another, but toggle the state at every press/release.
 The software handles both latching and non-latching switches. I set a definition for the kind of footwitch:
 
-[code]
-#define LATCHING
-[/code]
+'#define LATCHING'
 
 Simply comment (//) or delete the line for non latching switches.
 
