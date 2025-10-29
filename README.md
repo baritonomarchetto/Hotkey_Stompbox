@@ -1,7 +1,7 @@
 # Hotkey Stompbox
 A DIY stompbox to send keystrokes to your software of choice. Hands free!
 
-![](https://github.com/baritonomarchetto/Hotkey_Stompbox/blob/main/pics/1000041587_risultato.jpg?raw=true)
+![](/pics/1000041587_risultato.jpg)
 
 I’ve found myself needing this on more than one occasion over the past few years.
 
@@ -29,7 +29,7 @@ The stompbox PCB is populated by the following components:
 - 6x 10K ohm resistor
 - 2x LED, 3mm
 
-![](https://github.com/baritonomarchetto/Hotkey_Stompbox/blob/main/pics/IMG_20251024_111900_risultato.jpg?raw=true)
+![](/pics/IMG_20251024_111900_risultato.jpg)
 
 To work the aluminum alloy case, I suggest you to use:
 - Power driller (mandatory)
@@ -43,7 +43,7 @@ There's little space inside a 1590B case. Most is already taken by the two foots
 
 This is why I opted for the smallest microcontroller board out there: The RP2040 Zero. This thing is in the 4 cm^2 ballpark and equips a powerful (and cheap) microcontroller. A no-brainer.
 
-![](/pics/1000041577_risultato.jpg?raw=true)
+![](/pics/1000041577_risultato.jpg)
 
 Two classic PCB mount, latching, guitar effect footswitches are used to trigger keystrokes. This makes the device durable and solid feeling.
 
@@ -85,7 +85,7 @@ Simply comment (//) or delete the line for non latching switches.
 
 A special thanks goes to the nice girls and guys at [JLCPCB](https://jlcpcb.com/IAT) for sponsoring PCBs manufacturing of this project of mine.
 
-![](https://github.com/baritonomarchetto/Hotkey_Stompbox/blob/main/pics/1000041588_risultato.jpg?raw=true)
+![](/pics/1000041588_risultato.jpg)
 
 Without their contribution this project would have never seen the light (I would have stopped at my first prototype: no sharing, only my own personal use... definitely a less noble goal!).
 
