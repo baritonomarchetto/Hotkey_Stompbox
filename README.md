@@ -81,6 +81,8 @@ Simply comment (//) or delete the line for non latching switches.
 
 A special thanks goes to the nice girls and guys at [JLCPCB](https://jlcpcb.com/IAT) for sponsoring PCBs manufacturing of this project of mine.
 
+![](https://github.com/baritonomarchetto/Hotkey_Stompbox/blob/main/pics/1000041588_risultato.jpg?raw=true)
+
 Without their contribution this project would have never seen the light (I would have stopped at my first prototype: no sharing, only my own personal use... definitely a less noble goal!).
 
 In this run they also sponsored the production of a revision of the [RGB Test Pattern Generator](https://www.instructables.com/DIY-Portable-RGB-CRT-Test-Pattern-Generator/), the previous being affected by an error in the SCART pinout (never trust others footprints!). Now it's fully tested and working.
